@@ -10,7 +10,7 @@
 - An undergraduate.
 - I majored in information security in Nankai University.
 
-![](https://github-readme-stats.vercel.app/api?username=buchiyexiao&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=buchiyexiao)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=buchiyexiao.buchiyexiao)
 
