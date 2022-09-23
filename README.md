@@ -6,7 +6,7 @@
 
 ### 💻 About myself:
 
-- I start learning web and pwn in ctf.
+- I start learning Mo Yu in ctf.
 - I hate coffee.
 - An undergraduate.
 - I majored in information security in Nankai University.
